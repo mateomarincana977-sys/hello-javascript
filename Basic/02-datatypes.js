@@ -10,6 +10,11 @@ let myName = "Brais Moure"
 let alias = 'MoureDev'
 let email = `braismoure@mouredev.com`
 
+// Cadenas de texto (string) Mateo
+let myNameMateo = "Mateo Marín"
+let aliasMateo = "Mateo"
+let emailMateo = "mateo@1xn.org"
+
 // Números (number)
 let age = 37 // Entero
 let height = 1.77 // Decimal

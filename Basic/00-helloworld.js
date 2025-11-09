@@ -18,7 +18,7 @@ en varias líneas
 comentario 
 en varias
 líneas */
-
+console.log("Hola Mateo")
 console.log("¡Hola, JavaScript!")
 console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
@@ -39,3 +39,13 @@ console.log(5 * 2)
 console.log(5 / 2)
 console.log(5 % 2)
 console.log(5 ** 2)
+
+console.log("5" + "2") // Concatenación
+console.log("5" - "2") // Resta
+console.log("5" * "2") // Multiplicación
+console.log("5" / "2") // División
+console.log("5" % "2") // Módulo
+console.log("5" ** "2") // Exponente
+
+console.log("Hola" + " " + "Mateo") // Concatenación de cadenas
+
